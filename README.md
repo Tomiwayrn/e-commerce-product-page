@@ -27,4 +27,4 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
-[live site] (https://tomiwayrn.github.io/manage-landing-page/)
+
