@@ -1,6 +1,6 @@
 # Frontend Mentor - E-commerce product page
 
-![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the E-commerce product page coding challenge](./screenshot.jpg)
 
 ## Welcome! 👋
 
@@ -25,7 +25,7 @@ Your users should be able to:
 - Add items to the cart
 - View the cart and remove items from it
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
 
-[live URL] (https://taupe-haupia-439cf3.netlify.app)
+
+[live URL](https://taupe-haupia-439cf3.netlify.app)
