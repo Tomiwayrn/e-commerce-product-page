@@ -3,7 +3,7 @@
 ![Design preview for the E-commerce product page coding challenge](./screenshot.png)
 
 <div align="center">
-   Live url here <a href="https://taupe-haupia-439cf3.netlify.app/" target="_blank">Weather App</a>.
+   Live url here <a href="https://taupe-haupia-439cf3.netlify.app/" target="_blank">Product Page</a>.
 </div>
 
 ## Welcome! 👋
